@@ -1,4 +1,7 @@
 # LittleLemon
+
+## Note: model/view/serializer for Menu is renamed to MenuItem
+
 Below are the apis you can use for using application.
 1. base_url/restaurant - restaurant page
 2. base_url/restaurant/booking/tables  -  Browable APIs page to book table
